@@ -73,7 +73,7 @@ const App: React.FC = () => {
   };
 
   return (
-    <Router>
+    <Router basename="/public">
       <div className="app-container">
         <button onClick={toggleDarkMode} className="theme-toggle">
           {darkMode ? '☀️' : '🌙'}
