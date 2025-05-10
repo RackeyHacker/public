@@ -2,7 +2,7 @@
   "name": "poll-platform",
   "version": "1.0.0",
   "main": "index.js",
-  "homepage": "https://RackeyHacker.github.io/private",
+  "homepage": "https://RackeyHacker.github.io/public",
   "scripts": {
     "start": "webpack serve --open",
     "build": "webpack --mode production",
